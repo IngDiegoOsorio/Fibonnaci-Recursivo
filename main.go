@@ -16,7 +16,7 @@ func imprimir_fibonacci(iteraciones uint){
 	  fmt.Printf("|\n")
 }
 func main(){
-	
-	imprimir_fibonacci(15)
+
+	imprimir_fibonacci(20)
 
 }
